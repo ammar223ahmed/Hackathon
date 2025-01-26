@@ -197,7 +197,7 @@ export default function LoanDetailPage() {
             ))}
           </div>
         </div>
-
+        {/* git branch -M main */}
         {selectedSubcategory && (
           <div className="loan-calculator">
             <h2>Loan Calculator</h2>
